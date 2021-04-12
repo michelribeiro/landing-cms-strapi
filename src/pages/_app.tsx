@@ -26,11 +26,11 @@ const App = ({ Component, pageProps }: AppProps) => {
           description:
             'Aprenda a criar um Ecommerce completo, indo do Backend ao Frontend utilizando tecnologias como ReactJS, NextJS, Strapi, GraphQL, Apollo e muito mais!',
           images: [{ url: 'https://reactavancado.com.br/img/cover.png' }],
-          site_name: 'React Avançado',
+          site_name: 'React Avançado com Michel',
           locale: 'pt_BR'
         }}
         twitter={{
-          handle: '@Willian_justen',
+          handle: '@Michel_Ribeiro',
           site: '@site',
           cardType: 'summary_large_image'
         }}
